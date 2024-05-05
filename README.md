@@ -1,2 +1,3 @@
-# rewrite
-Rawblox source code, fully rewritten from scratch.
+# What is Rawblox?
+Rawblox is a recreation of the 2024 Roblox website.
+# CODE WILL BE UPLOADED INTO THIS REPOSITORY ONCE REGISTERING AND LOGGING IN IS FINISHED
